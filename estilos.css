@@ -1,0 +1,28 @@
+
+h1{
+    color: rgb(8, 8, 54);
+}
+h2{
+    color: rgb(40, 40, 110);
+}
+@font-face {
+    font-family: 'Edo SZ';
+    src: url('Fuente/edosz.ttf') format("truetype");
+    font-weight: normal;
+    font-style: normal;
+ }
+ .circular--square {
+    border-radius: 50%;
+  }
+  body{
+    background-color: rgba(113, 113, 165, 0.684);
+  }
+  table{
+    background-color: rgb(255, 255, 255);
+  }
+  th{
+    background-color: rgb(90, 88, 238);
+  }
+  td{
+    background-color: rgba(91, 88, 238, 0.271);
+  }
